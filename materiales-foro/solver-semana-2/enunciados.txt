@@ -1,0 +1,17 @@
+Ejercicio 1: Diseñar un HalfSubtractor
+	a. Hacer la tabla de verdad
+	b. Kmaps y ecuaciones
+	c. Dibujo del circuito
+	d. Codigo del diseño
+	e. Testbench
+	f. Implementar el circuito usando un mux 2:1
+	g. Implementar el circuito usando un mux 4:1
+
+Ejercicio 2: JK flip-flop ( creo que este era de la semana 3 )
+	a. Tabla de verdad
+	b. Kmap y ecuaciones
+	c. Dibujo del circuito
+	d. Codigo del diseño usando la pregunta c
+	e. Testbench con todas las combinaciones de JK
+	f. Hacer un T flipflop usando un JK flipflop. Dibujo del circuito.
+	g. Hacer un JK flip flop usando un MUX2:1, un D flipflop y una compuerta not.. Dibuja el circuito

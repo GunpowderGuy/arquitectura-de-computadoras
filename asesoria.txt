@@ -1,0 +1,17 @@
+15 y 23 : SR latch
+
+explicando d latch : 15 y 31
+
+d flip flop es hecho de dos d gated latch?
+
+d flip flop te deja mantener el valor anterior o poner uno nuevo.
+T flip flop mantiene el valor anterior o invierte el valor anterior?
+
+
+3 y 56 :
+
+always : 4 y22
+
+
+un componente es sincrono cuando clock esta en always?
+y asincrono cuando el clock no esta en always? ( 4 y25 )
