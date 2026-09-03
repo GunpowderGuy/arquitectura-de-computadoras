@@ -1,0 +1,9 @@
+31 - 08 - 26
+
+hay una diferencia muy fuerta
+
+los fsm tienen una implemenatacion fisica
+
+la forma de diagramar puede ser muy parecido pero no es lo mismo
+
+ejemplo claro afsm no tiene un estado acabarse
